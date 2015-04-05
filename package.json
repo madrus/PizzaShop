@@ -1,0 +1,22 @@
+{
+  "name": "PizzaShop",
+  "version": "0.1.0",
+  "description": "PizzaShop Exercise with John Wildermuth",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Andre Roussakoff",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "express-handlebars": "^2.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.1",
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.10.0"
+  }
+}
